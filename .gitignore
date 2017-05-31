@@ -1,0 +1,6 @@
+*.pyc
+secret.txt
+.idea
+*~
+.log
+.checkpoint
