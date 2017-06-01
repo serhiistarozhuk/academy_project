@@ -2,5 +2,5 @@
 secret.txt
 .idea
 *~
-.log
-.checkpoint
+*.log
+*.checkpoint
